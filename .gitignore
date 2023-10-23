@@ -16,6 +16,7 @@ _autosave-*
 *-save.pro
 *-save.kicad_pcb
 fp-info-cache
+**_build
 
 # Netlist files (exported from Eeschema)
 *.net
@@ -27,3 +28,10 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# Auto generated files from KiKit Plugin
+*_Panel.kicad_pro 
+*panel*.kicad_pro
+
+# Exported Gerber files (directory)
+Gerber_*/

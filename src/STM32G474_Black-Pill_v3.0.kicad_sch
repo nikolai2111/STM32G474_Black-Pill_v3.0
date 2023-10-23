@@ -1,0 +1,23 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid bfaac094-0365-40a4-8b7a-d4d62ace544e)
+
+  (paper "A4")
+
+  (title_block
+    (title "<Default Template>")
+    (date "2023-04-28")
+    (rev "A")
+    (company "ElektroNik Zoller")
+    (comment 1 "Nikolai Zoller")
+    (comment 4 "CERN-OHL-P")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
