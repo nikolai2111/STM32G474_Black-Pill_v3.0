@@ -55,7 +55,16 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "hole_clearance|105840000|101760000|98e4e909-dc6f-4558-9950-7c73655d9772|264d34bc-4a23-418e-8cd6-149a5ea033ef",
+        "hole_clearance|105840000|101760000|98e4e909-dc6f-4558-9950-7c73655d9772|579b2933-156c-4b03-9d71-9d8cd3c93a20",
+        "hole_clearance|105840000|101960000|98e4e909-dc6f-4558-9950-7c73655d9772|62e9d47d-02a7-4bae-9e2b-925dd6793fac",
+        "hole_clearance|105840000|101960000|98e4e909-dc6f-4558-9950-7c73655d9772|7ef6a61d-5424-4890-963e-0d8499a63071",
+        "hole_clearance|105840000|96160000|169ca08c-1db7-4162-ac57-42abbda6a5a5|818d917a-1ad7-4d1c-bc43-ab5a9e04eaf5",
+        "hole_clearance|105840000|96160000|169ca08c-1db7-4162-ac57-42abbda6a5a5|deb16803-0da8-4330-aae2-4e933f2a28c6",
+        "hole_clearance|105840000|96360000|169ca08c-1db7-4162-ac57-42abbda6a5a5|0dfdb030-3634-4f22-9929-29ee286d86c8",
+        "hole_clearance|105840000|96360000|169ca08c-1db7-4162-ac57-42abbda6a5a5|c5136901-1b04-4c94-a314-640411c264a7"
+      ],
       "meta": {
         "version": 2
       },
@@ -118,7 +127,7 @@
         "min_hole_to_hole": 0.5,
         "min_microvia_diameter": 0.15,
         "min_microvia_drill": 0.25,
-        "min_resolved_spokes": 2,
+        "min_resolved_spokes": 1,
         "min_silk_clearance": 0.0,
         "min_text_height": 1.0,
         "min_text_thickness": 0.19999999999999998,
@@ -510,6 +519,14 @@
       "version": 1
     },
     "net_format_name": "",
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 0,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "${KICAD_USER_SHEET_DIR}/default_ElektroNik.kicad_wks",
     "plot_directory": "",
     "spice_current_sheet_as_root": false,
