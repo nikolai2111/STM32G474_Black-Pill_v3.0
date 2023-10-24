@@ -211,7 +211,10 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      "pin_to_pin|1130300|419100|690e70d1-c3e5-4ed9-b39c-9aa42972a2e9|f124e2ae-5070-4f9f-99ba-2a2c53ed188b|/bfaac094-0365-40a4-8b7a-d4d62ace544e|/bfaac094-0365-40a4-8b7a-d4d62ace544e|/bfaac094-0365-40a4-8b7a-d4d62ace544e",
+      "pin_to_pin|1130300|444500|c0e15251-ab5e-4d05-96df-6e9ac1ca9c99|f124e2ae-5070-4f9f-99ba-2a2c53ed188b|/bfaac094-0365-40a4-8b7a-d4d62ace544e|/bfaac094-0365-40a4-8b7a-d4d62ace544e|/bfaac094-0365-40a4-8b7a-d4d62ace544e"
+    ],
     "meta": {
       "version": 0
     },
@@ -474,7 +477,23 @@
       "dashed_lines_gap_length_ratio": 3.0,
       "default_line_thickness": 6.0,
       "default_text_size": 50.0,
-      "field_names": [],
+      "field_names": [
+        {
+          "name": "Manufacturer Part no.",
+          "url": false,
+          "visible": false
+        },
+        {
+          "name": "Vendor",
+          "url": false,
+          "visible": false
+        },
+        {
+          "name": "Vendor Part No.",
+          "url": false,
+          "visible": false
+        }
+      ],
       "intersheets_ref_own_page": false,
       "intersheets_ref_prefix": "",
       "intersheets_ref_short": false,
