@@ -2154,7 +2154,7 @@
     (property "ki_description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)")
     (property "ki_keywords" "connector")
     (path "/ba9eaafb-dd41-4244-848e-3be3e9f86eb9")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "J104" (at 4.385 -2.27) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0f36fd9f-4824-43e7-9c1d-f7aa1067187e)
@@ -3107,7 +3107,7 @@
     (property "ki_description" "Generic connector, single row, 01x20, script generated (kicad-library-utils/schlib/autogen/connector/)")
     (property "ki_keywords" "connector")
     (path "/e5dae973-9204-471c-9ddb-9cf1cb789ecd")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "J102" (at 0 2.33 90) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp f87a14e8-8254-4851-9bf0-0fa556709b0a)
@@ -3207,7 +3207,7 @@
     (property "ki_description" "3-pole Solder Jumper, pins 1+2 closed/bridged")
     (property "ki_keywords" "Solder Jumper SPDT")
     (path "/55d33f2e-f90a-4d05-9ab0-151a81c4e389")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (net_tie_pad_groups "1, 2, 3")
     (fp_text reference "JP101" (at 0 1.8 -270) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -3359,7 +3359,7 @@
     (property "ki_description" "3-pole Solder Jumper, pins 1+2 closed/bridged")
     (property "ki_keywords" "Solder Jumper SPDT")
     (path "/9e2a8745-0e44-4eee-b22b-d0763087070e")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (net_tie_pad_groups "1, 2, 3")
     (fp_text reference "JP102" (at 0 1.8 -270) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -3457,7 +3457,7 @@
     (property "ki_description" "Generic connector, single row, 01x20, script generated (kicad-library-utils/schlib/autogen/connector/)")
     (property "ki_keywords" "connector")
     (path "/138d708d-e722-488b-b4d9-3f9d404d1bbe")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "J103" (at 0 2.33 90) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp f36672c1-d2ff-473f-b819-77f1ed210251)
@@ -3614,7 +3614,7 @@
     (property "ki_description" "Solder Jumper, 2-pole, closed/bridged")
     (property "ki_keywords" "solder jumper SPST")
     (path "/fff78510-f022-43f9-9727-ae7444e609fe")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (net_tie_pad_groups "1, 2")
     (fp_text reference "JP103" (at 0 1.8 90) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
