@@ -1,0 +1,12 @@
+{
+    "layout": {
+        "rows": "5",
+        "cols": "2"
+    },
+    "tabs": {
+        "type": "full"
+    },
+    "cuts": {
+        "type": "vcuts"
+    }
+}
