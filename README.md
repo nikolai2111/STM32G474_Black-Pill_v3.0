@@ -23,7 +23,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-<a href="https://www.tindie.com/stores/nikolai2111/?ref=offsite_badges&utm_source=sellers_Nikolai2111&utm_medium=badges&utm_campaign=badge_small"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-smalls.png" alt="I sell on Tindie" width="110" height="30"></a> <!-- ToDo: paste real tindie link -->
+<a href="https://www.tindie.com/products/nikolai2111/black-pill-v30-stm32g474/"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-smalls.png" alt="I sell on Tindie" width="110" height="30"></a>
 
 
 
@@ -79,7 +79,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://www.tindie.com/stores/nikolai2111/?ref=offsite_badges&utm_source=sellers_Nikolai2111&utm_medium=badges&utm_campaign=badge_small) <!-- ToDo: paste real tindie link -->
+[![Product Name Screen Shot][product-screenshot]](https://www.tindie.com/products/nikolai2111/black-pill-v30-stm32g474/)
 
 I find the compact and versatile STM32-Pills (Blue and Black) intriguing due to their ease of use for various applications. They seamlessly integrate into hardware prototypes, simplifying the process of testing ideas. However, I’ve noticed that the existing Black Pills primarily focus on digital tasks.
 
