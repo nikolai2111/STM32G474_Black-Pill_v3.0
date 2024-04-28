@@ -23,6 +23,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+<a href="https://www.tindie.com/stores/nikolai2111/?ref=offsite_badges&utm_source=sellers_Nikolai2111&utm_medium=badges&utm_campaign=badge_small"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-smalls.png" alt="I sell on Tindie" width="110" height="30"></a> <!-- ToDo: paste real tindie link -->
 
 
 
@@ -78,7 +79,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://www.tindie.com/) <!-- ToDo: paste real tindie link -->
+[![Product Name Screen Shot][product-screenshot]](https://www.tindie.com/stores/nikolai2111/?ref=offsite_badges&utm_source=sellers_Nikolai2111&utm_medium=badges&utm_campaign=badge_small) <!-- ToDo: paste real tindie link -->
 
 I find the compact and versatile STM32-Pills (Blue and Black) intriguing due to their ease of use for various applications. They seamlessly integrate into hardware prototypes, simplifying the process of testing ideas. However, I’ve noticed that the existing Black Pills primarily focus on digital tasks.
 
@@ -185,7 +186,5 @@ Source: [Best-README-Template](https://github.com/othneildrew/Best-README-Templa
 [issues-url]: https://github.com/nikolai2111/STM32G474_Black-Pill_v3.0/issues
 [license-shield]: https://img.shields.io/github/license/nikolai2111/STM32G474_Black-Pill_v3.0.svg?style=for-the-badge
 [license-url]: https://github.com/nikolai2111/STM32G474_Black-Pill_v3.0/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: PCB-3D_Top_A.png
 [Kicad-url]: https://www.kicad.org/
