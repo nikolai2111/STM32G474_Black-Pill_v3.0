@@ -67,6 +67,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
+    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -115,6 +116,15 @@ ToDo:
    ```
 2. Navigate to the the `src` folder.
 3. Open the [project file](src/STM32G474_Black-Pill_v3.0.kicad_pro).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
+Use this dev board with the template from [this repo](https://github.com/nikolai2111/STM32G474_Black-Pill_v3.0_Template). It's an example file.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
