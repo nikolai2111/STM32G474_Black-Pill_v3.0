@@ -22,7 +22,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![CERN-OHL-P-2.0 License][license-shield]][license-url]
 <a href="https://www.tindie.com/products/nikolai2111/black-pill-v30-stm32g474/"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-smalls.png" alt="I sell on Tindie" width="110" height="30"></a>
 
 
