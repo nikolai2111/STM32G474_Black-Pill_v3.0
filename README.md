@@ -32,7 +32,7 @@
 <div align="center">
   <a href="https://github.com/nikolai2111/STM32G474_Black-Pill_v3.0"></a>
 
-<h3 align="center">STM32G474 Black Pill v3.0</h3>
+<h3 align="center">Black Pill v3.0 STM32G474</h3>
 
   <p align="center">
     The STM32-Pills are compact and convenient for prototyping, but their digital focus leaves room for exploration. The STM32G474's integration of analog and digital components opens up possibilities for creating versatile systems. For example, the integrated opamps and comparators. 
